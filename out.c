@@ -1,0 +1,1 @@
+int main(){jfldsajfldsjlf;int b;int c;unsigned int a;a =10;char jjj;int d =888;int aaa;double fjalfjl;return b;}
